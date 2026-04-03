@@ -1,4 +1,5 @@
-<img width="1920" height="933" alt="Screenshot 2026-04-03 080958" src="https://github.com/user-attachments/assets/979edb0e-bd36-488b-b7cc-59f5f77ef6a7" /># ✨ Personal Web Portfolio - Fathera Ardila
+<img width="1080" height="1350" alt="portofolio" src="https://github.com/user-attachments/assets/57e31968-40d0-4585-88f4-41ea6d5b6cad" />
+bd36-488b-b7cc-59f5f77ef6a7" /># ✨ Personal Web Portfolio - Fathera Ardila
 
 > Halo! Selamat datang di repositori kode (source code) untuk website portofolio pribadi saya. 
 
