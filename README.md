@@ -1,4 +1,4 @@
-# ✨ Personal Web Portfolio - Fathera Ardila
+<img width="1920" height="933" alt="Screenshot 2026-04-03 080958" src="https://github.com/user-attachments/assets/979edb0e-bd36-488b-b7cc-59f5f77ef6a7" /># ✨ Personal Web Portfolio - Fathera Ardila
 
 > Halo! Selamat datang di repositori kode (source code) untuk website portofolio pribadi saya. 
 
@@ -18,16 +18,13 @@ Kunjungi website langsung di sini: **[fatheraardila.web.id](https://fatheraardil
 * **CSS3** (Styling, Flexbox, Grid, Animasi)
 * **Vanilla JavaScript** (Interaktivitas dan DOM Manipulation)
 
-## 📸 Tangkapan Layar
-*(Kamu bisa menambahkan gambar screenshot website-mu di sini nanti)*
-
 ## 👩‍💻 Tentang Saya
 **Fathera Ardila**
 Mahasiswa Pendidikan Teknologi Informasi di Universitas Negeri Surabaya (UNESA). Saya memiliki minat besar dalam pengembangan aplikasi web, desktop, dan media pembelajaran digital.
 
-* 📧 Email: *(isi dengan email kamu)*
-* 💼 LinkedIn: *(isi dengan link LinkedIn kamu)*
-* 🐙 GitHub: [@usernamegithubmu](https://github.com/usernamegithubmu)
+* 📧 Email: *(fatheraardilaa@gmail.com)*
+* 💼 LinkedIn: *(https://linkedin.com/in/fathera-ardila)*
+* 🐙 GitHub: *(https://github.com/fathera-collab)*
 
 ---
-*Dibuat dengan ❤️ oleh Fathera Ardila © 2026*
+*Oleh Fathera Ardila © 2026*
